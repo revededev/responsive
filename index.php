@@ -28,6 +28,7 @@
 					<a href="#" id="bouton_say">
 						<h5>Say Hello</h5>
 					</a>
+				</div>
 			</nav>
 		</header>
 <!-- </div> -->
